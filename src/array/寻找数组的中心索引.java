@@ -7,6 +7,20 @@ package array;
  **/
 public class 寻找数组的中心索引 {
     public static int pivotIndex(int[] nums) {
+        int res = 0;
+        for(int i = 0 ; i < nums.length; i++){
+            res += nums[i];
+        }
+        int left = 0;
+        for(int i = 0 ; i < nums.length; i++){
+            if(res - nums[i] == left * 2){
+                return i;
+            }
+            left += nums[i];
+        }
+        return -1;
+    }
+    public static int pivotIndex1(int[] nums) {
         int sum = qiuhe(nums, 0, nums.length);
         for(int i = 0 ; i < nums.length ; i ++ ){
             if((sum - nums[i]) % 2 == 0){
