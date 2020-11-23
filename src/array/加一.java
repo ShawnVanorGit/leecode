@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * @Author Natasha
- * @Description
+ * @Description System.arraycopy:从被拷贝对象的第几个开始拷贝，拷贝到目标数组的 []
  * @Date 2020/11/12 14:27
  **/
 public class 加一 {

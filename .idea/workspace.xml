@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a56f014-a896-4fe8-852f-c85153b4b525" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/again/子数组最大平均数I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/again/存在重复元素II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/again/数组拆分I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/again/第三大的数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/合并两个有序数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/种花问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/again/使用最小花费爬楼梯_动态规划.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/again/较大分组的位置.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/至少是其他数字两倍的最大数.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/寻找数组的中心索引.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/寻找数组的中心索引.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/汇总区间.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/汇总区间.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leecode/array/again/非递减数列_贪心.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leecode/array/again/非递减数列_贪心.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leecode/array/寻找数组的中心索引.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leecode/array/寻找数组的中心索引.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leecode/array/汇总区间.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leecode/array/汇总区间.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/加一.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/加一.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <recent name="D:\leecode\src\array\again" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.非递减数列_贪心 (1)">
+  <component name="RunManager" selected="Application.较大分组的位置">
     <configuration name="汇总区间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.汇总区间" />
       <module name="leecode" />
@@ -90,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="两数之和II_输入有序数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.两数之和II_输入有序数组" />
+    <configuration name="较大分组的位置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.again.较大分组的位置" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -109,6 +107,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="array.again.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="只出现一次的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.只出现一次的数字" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="至少是其他数字两倍的最大数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.至少是其他数字两倍的最大数" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,21 +231,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="只出现一次的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.只出现一次的数字" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="非递减数列_贪心" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.非递减数列_贪心" />
+    <configuration name="使用最小花费爬楼梯_动态规划" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.again.使用最小花费爬楼梯_动态规划" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -248,10 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.较大分组的位置" />
+        <item itemvalue="Application.使用最小花费爬楼梯_动态规划" />
         <item itemvalue="Application.非递减数列_贪心 (1)" />
         <item itemvalue="Application.最大连续1的个数" />
         <item itemvalue="Application.汇总区间" />
-        <item itemvalue="Application.两数之和II_输入有序数组" />
       </list>
     </recent_temporary>
   </component>
@@ -285,6 +297,9 @@
       <workItem from="1605751553396" duration="2708000" />
       <workItem from="1605832570152" duration="11845000" />
       <workItem from="1605964456957" duration="292000" />
+      <workItem from="1605965098079" duration="5934000" />
+      <workItem from="1606010555097" duration="1413000" />
+      <workItem from="1606136121800" duration="4548000" />
     </task>
     <servers />
   </component>
@@ -296,9 +311,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1602646036195" />
-    <state x="2592" y="716" key="#xdebugger.evaluate" timestamp="1605840349257">
-      <screen x="1920" y="272" width="1920" height="1040" />
+    <state x="425" y="225" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606140586439">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="425" y="225" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1606140586439" />
+    <state x="448" y="85" key="#xdebugger.evaluate" timestamp="1605970229733">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="448" y="85" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1605970229733" />
     <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1603793160879" />
     <state x="2592" y="716" key="#xdebugger.evaluate/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1605840349257" />
     <state x="732" y="229" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1605660895574" />
@@ -308,27 +328,31 @@
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1605595372929" />
     <state x="2660" y="547" key="FileChooserDialogImpl/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1603716015253" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603874048602" />
-    <state width="1877" height="319" key="GridCell.Tab.0.bottom" timestamp="1605853775862">
-      <screen x="1920" y="272" width="1920" height="1040" />
+    <state width="1237" height="29" key="GridCell.Tab.0.bottom" timestamp="1606141499335">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="29" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606141499335" />
     <state width="1877" height="226" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1605845186642" />
     <state width="1877" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1605853775862" />
     <state width="1860" height="161" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605666524605" />
-    <state width="1877" height="319" key="GridCell.Tab.0.center" timestamp="1605853775862">
-      <screen x="1920" y="272" width="1920" height="1040" />
+    <state width="1237" height="29" key="GridCell.Tab.0.center" timestamp="1606141499335">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="29" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606141499335" />
     <state width="1877" height="226" key="GridCell.Tab.0.center/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1605845186642" />
     <state width="1877" height="319" key="GridCell.Tab.0.center/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1605853775862" />
     <state width="1860" height="161" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605666524605" />
-    <state width="1877" height="319" key="GridCell.Tab.0.left" timestamp="1605853775862">
-      <screen x="1920" y="272" width="1920" height="1040" />
+    <state width="1237" height="29" key="GridCell.Tab.0.left" timestamp="1606141499335">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="29" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606141499335" />
     <state width="1877" height="226" key="GridCell.Tab.0.left/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1605845186642" />
     <state width="1877" height="319" key="GridCell.Tab.0.left/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1605853775862" />
     <state width="1860" height="161" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605666524605" />
-    <state width="1877" height="319" key="GridCell.Tab.0.right" timestamp="1605853775862">
-      <screen x="1920" y="272" width="1920" height="1040" />
+    <state width="1237" height="29" key="GridCell.Tab.0.right" timestamp="1606141499335">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="29" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606141499335" />
     <state width="1877" height="226" key="GridCell.Tab.0.right/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1605845186642" />
     <state width="1877" height="319" key="GridCell.Tab.0.right/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1605853775862" />
     <state width="1860" height="161" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605666524605" />
@@ -337,6 +361,14 @@
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1602646903845" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603871491730" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1606136726987">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1606136726987" />
+    <state x="321" y="73" width="638" height="534" key="find.popup" timestamp="1605968262080">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="73" width="638" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1605968262080" />
     <state x="334" y="92" key="new project wizard" timestamp="1604309039069">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -388,6 +420,21 @@
           <url>file://$PROJECT_DIR$/src/array/again/非递减数列_贪心.java</url>
           <line>28</line>
           <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/again/使用最小花费爬楼梯_动态规划.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/至少是其他数字两倍的最大数.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/至少是其他数字两倍的最大数.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/array/again/找到所有数组中消失的数字.java</url>
