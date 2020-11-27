@@ -2,29 +2,34 @@ package array;
 
 /**
  * @Author Natasha
- * @Description
+ * @Description 看到别人分头行事，从左到峰顶，从右到峰顶
  * @Date 2020/11/27 15:15
  **/
 public class 有效的山脉数组 {
     public static boolean validMountainArray(int[] arr) {
-        int up = 0;
-        int down = 0;
-        boolean upBol = true;
-        for(int i = 1; i < arr.length; i++){
-            if(arr[i - 1] <= arr[i]){
-                up++;
-                if(down > 0){
-                    upBol = false;
-                    return false;
-                }
+        int i = 1;
+        boolean a = false;
+        boolean b = false;
+        while(i < arr.length){
+            if(arr[i - 1] < arr[i]){
+                i++;
+                a = true;
             }else{
-                down++;
+                break;
             }
         }
-        return up > 0 && upBol && down > 0;
+        while(i < arr.length){
+            if(arr[i - 1] > arr[i]){
+                i++;
+                b = true;
+            }else{
+                return false;
+            }
+        }
+        return a&&b;
     }
 
     public static void main(String[] args) {
-        System.out.println(validMountainArray(new int[]{1,1,1,1,1,1,1,2,1}));
+        System.out.println(validMountainArray(new int[]{2,1}));
     }
 }
