@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="896e6956-0e8c-4715-acce-12732bf16c94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/unkonw/复写零.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/again/数组的相对排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/有序数组中出现次数超过25的元素.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leecode/array/复写零.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\leecode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.有序数组中出现次数超过25的元素">
     <configuration name="复写零" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.unkonw.复写零" />
       <module name="leecode" />
@@ -53,8 +59,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="有序数组中出现次数超过25的元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.有序数组中出现次数超过25的元素" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.有序数组中出现次数超过25的元素" />
         <item itemvalue="Application.复写零" />
       </list>
     </recent_temporary>
@@ -69,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607136906388</updated>
-      <workItem from="1607136907730" duration="7147000" />
+      <workItem from="1607136907730" duration="10867000" />
     </task>
     <servers />
   </component>
@@ -77,22 +97,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="141" key="GridCell.Tab.0.bottom" timestamp="1607146514945">
+    <state width="1237" height="129" key="GridCell.Tab.0.bottom" timestamp="1607185701559">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="141" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607146514945" />
-    <state width="1237" height="141" key="GridCell.Tab.0.center" timestamp="1607146514945">
+    <state width="1237" height="129" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607185701559" />
+    <state width="1237" height="129" key="GridCell.Tab.0.center" timestamp="1607185701559">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="141" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607146514945" />
-    <state width="1237" height="141" key="GridCell.Tab.0.left" timestamp="1607146514945">
+    <state width="1237" height="129" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607185701559" />
+    <state width="1237" height="129" key="GridCell.Tab.0.left" timestamp="1607185701558">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="141" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607146514945" />
-    <state width="1237" height="141" key="GridCell.Tab.0.right" timestamp="1607146514945">
+    <state width="1237" height="129" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607185701558" />
+    <state width="1237" height="129" key="GridCell.Tab.0.right" timestamp="1607185701559">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="141" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607146514945" />
+    <state width="1237" height="129" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607185701559" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -101,6 +121,16 @@
           <url>file://$PROJECT_DIR$/src/array/unkonw/复写零.java</url>
           <line>15</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/有序数组中出现次数超过25的元素.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/有序数组中出现次数超过25的元素.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
