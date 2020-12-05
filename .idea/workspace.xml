@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a56f014-a896-4fe8-852f-c85153b4b525" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/again/高度检查器.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
+
+      <change afterPath="$PROJECT_DIR$/src/array/总持续时间可被60整除的歌曲.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/array/数组形式的整数加法.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/拼写单词.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/拼写单词.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,11 @@
       <recent name="D:\leecode\src\array\again" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.高度检查器">
+=======
+  <component name="RunManager" selected="Application.总持续时间可被60整除的歌曲">
+>>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
     <configuration name="按奇偶排序数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.again.按奇偶排序数组" />
       <module name="leecode" />
@@ -72,12 +74,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="拼写单词" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.拼写单词" />
+=======
+    <configuration name="查找常用字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.查找常用字符" />
+>>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.again.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +92,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="高度检查器" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.again.高度检查器" />
+=======
+    <configuration name="总持续时间可被60整除的歌曲" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.总持续时间可被60整除的歌曲" />
+>>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.again.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,8 +372,13 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.高度检查器" />
         <item itemvalue="Application.拼写单词" />
+=======
+        <item itemvalue="Application.总持续时间可被60整除的歌曲" />
+        <item itemvalue="Application.查找常用字符" />
+>>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
         <item itemvalue="Application.按奇偶排序数组" />
         <item itemvalue="Application.使用最小花费爬楼梯_动态规划" />
         <item itemvalue="Application.非递减数列_贪心 (1)" />
@@ -422,14 +439,20 @@
     <state x="425" y="225" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606917435997">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+<<<<<<< HEAD
     <state x="425" y="225" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1606917435997" />
     <state x="448" y="85" key="#xdebugger.evaluate" timestamp="1605970229733">
       <screen x="0" y="0" width="1280" height="680" />
+=======
+    <state x="425" y="225" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1606140586439" />
+    <state x="732" y="229" key="#xdebugger.evaluate" timestamp="1606874973068">
+      <screen x="0" y="0" width="1920" height="1040" />
+>>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
     </state>
     <state x="448" y="85" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1605970229733" />
     <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1603793160879" />
     <state x="2592" y="716" key="#xdebugger.evaluate/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1605840349257" />
-    <state x="732" y="229" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1605660895574" />
+    <state x="732" y="229" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1606874973068" />
     <state x="493" y="180" key="FileChooserDialogImpl" timestamp="1606743924606">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -437,34 +460,57 @@
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1605595372929" />
     <state x="2660" y="547" key="FileChooserDialogImpl/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1606274342613" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603874048602" />
+<<<<<<< HEAD
     <state width="1237" height="298" key="GridCell.Tab.0.bottom" timestamp="1606917570795">
       <screen x="0" y="0" width="1280" height="680" />
+=======
+    <state width="1020" height="307" key="GridCell.Tab.0.bottom" timestamp="1606896488845">
+      <screen x="0" y="0" width="1920" height="1040" />
+>>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
     </state>
     <state width="1237" height="298" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606917570795" />
     <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1606197418734" />
     <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1606469486077" />
+<<<<<<< HEAD
     <state width="1860" height="161" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605666524605" />
     <state width="1237" height="298" key="GridCell.Tab.0.center" timestamp="1606917570795">
       <screen x="0" y="0" width="1280" height="680" />
+=======
+    <state width="1020" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606896488845" />
+    <state width="1020" height="307" key="GridCell.Tab.0.center" timestamp="1606896488842">
+      <screen x="0" y="0" width="1920" height="1040" />
+>>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
     </state>
     <state width="1237" height="298" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606917570795" />
     <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1606197418734" />
     <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1606469486077" />
+<<<<<<< HEAD
     <state width="1860" height="161" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605666524605" />
     <state width="1237" height="298" key="GridCell.Tab.0.left" timestamp="1606917570795">
       <screen x="0" y="0" width="1280" height="680" />
+=======
+    <state width="1020" height="307" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606896488842" />
+    <state width="1020" height="307" key="GridCell.Tab.0.left" timestamp="1606896488842">
+      <screen x="0" y="0" width="1920" height="1040" />
+>>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
     </state>
     <state width="1237" height="298" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606917570795" />
     <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1606197418733" />
     <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1606469486077" />
+<<<<<<< HEAD
     <state width="1860" height="161" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605666524605" />
     <state width="1237" height="298" key="GridCell.Tab.0.right" timestamp="1606917570795">
       <screen x="0" y="0" width="1280" height="680" />
+=======
+    <state width="1020" height="307" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606896488842" />
+    <state width="1020" height="307" key="GridCell.Tab.0.right" timestamp="1606896488844">
+      <screen x="0" y="0" width="1920" height="1040" />
+>>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
     </state>
     <state width="1237" height="298" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606917570795" />
     <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1606197418734" />
     <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1606469486077" />
-    <state width="1860" height="161" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605666524605" />
+    <state width="1020" height="307" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606896488844" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1603871491730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -482,10 +528,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="73" width="638" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1605968262080" />
-    <state x="334" y="92" key="new project wizard" timestamp="1604309039069">
+    <state x="334" y="92" key="new project wizard" timestamp="1606895522806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="334" y="92" key="new project wizard/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1604309039069" />
+    <state x="334" y="92" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1606895522806" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605519396556">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -610,6 +657,7 @@
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
+<<<<<<< HEAD
           <url>file://$PROJECT_DIR$/src/array/拼写单词.java</url>
           <line>21</line>
           <option name="timeStamp" value="89" />
@@ -618,6 +666,21 @@
           <url>file://$PROJECT_DIR$/src/array/again/高度检查器.java</url>
           <line>10</line>
           <option name="timeStamp" value="90" />
+=======
+          <url>file://$PROJECT_DIR$/src/array/查找常用字符.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/查找常用字符.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/总持续时间可被60整除的歌曲.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="125" />
+>>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/array/again/找到所有数组中消失的数字.java</url>

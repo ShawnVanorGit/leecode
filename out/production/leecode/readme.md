@@ -1,5 +1,10 @@
-1. 数组复制：
-int[] arr1 = Arrays.copyOf(arr,arr.length);
+数组转化为list:
+List<String> resultList= new ArrayList<>(Arrays.asList(array));
 
-// 复制数组解析：   (原数组, 从原数组的起始位置, 目标数组, 目标数组的起始位置, 要复制的数组长度）     
-// System.arraycopy(src,     srcPos,           dest,     destPos,           length);
+ASCII:
+0 = 48
+A = 65
+a = 97
+
+填充
+Arrays.fill(arr, Integer.MAX_VALUE);
