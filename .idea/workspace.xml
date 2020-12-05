@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a56f014-a896-4fe8-852f-c85153b4b525" name="Default Changelist" comment="">
-
-      <change afterPath="$PROJECT_DIR$/src/array/总持续时间可被60整除的歌曲.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="896e6956-0e8c-4715-acce-12732bf16c94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/unkonw/复写零.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +21,9 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1iqrQLHWZC0D8pUxceZqRCgDoWW" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -41,328 +37,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/RealTimeBoard" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\leecode\src\array" />
-      <recent name="D:\leecode\src\array\again" />
-    </key>
-  </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.高度检查器">
-=======
-  <component name="RunManager" selected="Application.总持续时间可被60整除的歌曲">
->>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
-    <configuration name="按奇偶排序数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.again.按奇偶排序数组" />
+  <component name="RunManager">
+    <configuration name="复写零" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.unkonw.复写零" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="拼写单词" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.拼写单词" />
-=======
-    <configuration name="查找常用字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.查找常用字符" />
->>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="高度检查器" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.again.高度检查器" />
-=======
-    <configuration name="总持续时间可被60整除的歌曲" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.总持续时间可被60整除的歌曲" />
->>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="非递减数列_贪心 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.again.非递减数列_贪心" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="至少是其他数字两倍的最大数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.至少是其他数字两倍的最大数" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="三个数的最大乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.三个数的最大乘积" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="找到所有数组中消失的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.again.找到所有数组中消失的数字" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="有效的山脉数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.有效的山脉数组" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="多数元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.again.多数元素" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="丢失的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.again.丢失的数字" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="有序数组的平方" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.again.有序数组的平方" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="买卖股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.买卖股票的最佳时机" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数组形式的整数加法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.again.数组形式的整数加法" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="单调数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.单调数列" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="旋转数组的最小数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.旋转数组的最小数字" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="存在重复元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.存在重复元素" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="较大分组的位置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.again.较大分组的位置" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="有效的山脉数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.有效的山脉数组" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="只出现一次的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.只出现一次的数字" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="查询后的偶数和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.查询后的偶数和" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="使用最小花费爬楼梯_动态规划" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.again.使用最小花费爬楼梯_动态规划" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="斐波那契数_动态规划" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.斐波那契数_动态规划" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="分发饼干_贪心" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.分发饼干_贪心" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="array.unkonw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -372,16 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Application.高度检查器" />
-        <item itemvalue="Application.拼写单词" />
-=======
-        <item itemvalue="Application.总持续时间可被60整除的歌曲" />
-        <item itemvalue="Application.查找常用字符" />
->>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
-        <item itemvalue="Application.按奇偶排序数组" />
-        <item itemvalue="Application.使用最小花费爬楼梯_动态规划" />
-        <item itemvalue="Application.非递减数列_贪心 (1)" />
+        <item itemvalue="Application.复写零" />
       </list>
     </recent_temporary>
   </component>
@@ -390,41 +64,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4a56f014-a896-4fe8-852f-c85153b4b525" name="Default Changelist" comment="" />
-      <created>1602645945176</created>
+      <changelist id="896e6956-0e8c-4715-acce-12732bf16c94" name="Default Changelist" comment="" />
+      <created>1607136906388</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602645945176</updated>
-      <workItem from="1602645947946" duration="979000" />
-      <workItem from="1602668690198" duration="1146000" />
-      <workItem from="1602752066714" duration="5262000" />
-      <workItem from="1602761263335" duration="69000" />
-      <workItem from="1603106054201" duration="4042000" />
-      <workItem from="1603693172620" duration="675000" />
-      <workItem from="1603693883440" duration="66000" />
-      <workItem from="1603693972972" duration="2584000" />
-      <workItem from="1603792051342" duration="4233000" />
-      <workItem from="1603801535773" duration="2461000" />
-      <workItem from="1604056174574" duration="6132000" />
-      <workItem from="1604278082999" duration="29000" />
-      <workItem from="1604298805112" duration="6273000" />
-      <workItem from="1604308997006" duration="43000" />
-      <workItem from="1605151889820" duration="37202000" />
-      <workItem from="1605595350853" duration="24000" />
-      <workItem from="1605659703761" duration="4139000" />
-      <workItem from="1605751553396" duration="2708000" />
-      <workItem from="1605832570152" duration="11845000" />
-      <workItem from="1605964456957" duration="292000" />
-      <workItem from="1605965098079" duration="5934000" />
-      <workItem from="1606010555097" duration="1413000" />
-      <workItem from="1606136121800" duration="4548000" />
-      <workItem from="1606461329954" duration="2429000" />
-      <workItem from="1606578871068" duration="760000" />
-      <workItem from="1606658759499" duration="5660000" />
-      <workItem from="1606743875172" duration="648000" />
-      <workItem from="1606745652534" duration="789000" />
-      <workItem from="1606827126430" duration="2491000" />
-      <workItem from="1606910868043" duration="7070000" />
+      <updated>1607136906388</updated>
+      <workItem from="1607136907730" duration="7147000" />
     </task>
     <servers />
   </component>
@@ -432,270 +77,32 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Project_Structure" timestamp="1602646036195">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1602646036195" />
-    <state x="425" y="225" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606917435997">
+    <state width="1237" height="141" key="GridCell.Tab.0.bottom" timestamp="1607146514945">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-<<<<<<< HEAD
-    <state x="425" y="225" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1606917435997" />
-    <state x="448" y="85" key="#xdebugger.evaluate" timestamp="1605970229733">
-      <screen x="0" y="0" width="1280" height="680" />
-=======
-    <state x="425" y="225" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1606140586439" />
-    <state x="732" y="229" key="#xdebugger.evaluate" timestamp="1606874973068">
-      <screen x="0" y="0" width="1920" height="1040" />
->>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
-    </state>
-    <state x="448" y="85" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1605970229733" />
-    <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1603793160879" />
-    <state x="2592" y="716" key="#xdebugger.evaluate/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1605840349257" />
-    <state x="732" y="229" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1606874973068" />
-    <state x="493" y="180" key="FileChooserDialogImpl" timestamp="1606743924606">
+    <state width="1237" height="141" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607146514945" />
+    <state width="1237" height="141" key="GridCell.Tab.0.center" timestamp="1607146514945">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="493" y="180" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606743924606" />
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1605595372929" />
-    <state x="2660" y="547" key="FileChooserDialogImpl/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1606274342613" />
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603874048602" />
-<<<<<<< HEAD
-    <state width="1237" height="298" key="GridCell.Tab.0.bottom" timestamp="1606917570795">
-      <screen x="0" y="0" width="1280" height="680" />
-=======
-    <state width="1020" height="307" key="GridCell.Tab.0.bottom" timestamp="1606896488845">
-      <screen x="0" y="0" width="1920" height="1040" />
->>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
-    </state>
-    <state width="1237" height="298" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606917570795" />
-    <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1606197418734" />
-    <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1606469486077" />
-<<<<<<< HEAD
-    <state width="1860" height="161" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605666524605" />
-    <state width="1237" height="298" key="GridCell.Tab.0.center" timestamp="1606917570795">
-      <screen x="0" y="0" width="1280" height="680" />
-=======
-    <state width="1020" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606896488845" />
-    <state width="1020" height="307" key="GridCell.Tab.0.center" timestamp="1606896488842">
-      <screen x="0" y="0" width="1920" height="1040" />
->>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
-    </state>
-    <state width="1237" height="298" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606917570795" />
-    <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1606197418734" />
-    <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1606469486077" />
-<<<<<<< HEAD
-    <state width="1860" height="161" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605666524605" />
-    <state width="1237" height="298" key="GridCell.Tab.0.left" timestamp="1606917570795">
-      <screen x="0" y="0" width="1280" height="680" />
-=======
-    <state width="1020" height="307" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606896488842" />
-    <state width="1020" height="307" key="GridCell.Tab.0.left" timestamp="1606896488842">
-      <screen x="0" y="0" width="1920" height="1040" />
->>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
-    </state>
-    <state width="1237" height="298" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606917570795" />
-    <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1606197418733" />
-    <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1606469486077" />
-<<<<<<< HEAD
-    <state width="1860" height="161" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605666524605" />
-    <state width="1237" height="298" key="GridCell.Tab.0.right" timestamp="1606917570795">
-      <screen x="0" y="0" width="1280" height="680" />
-=======
-    <state width="1020" height="307" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606896488842" />
-    <state width="1020" height="307" key="GridCell.Tab.0.right" timestamp="1606896488844">
-      <screen x="0" y="0" width="1920" height="1040" />
->>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
-    </state>
-    <state width="1237" height="298" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606917570795" />
-    <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1606197418734" />
-    <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1606469486077" />
-    <state width="1020" height="307" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606896488844" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1603871491730">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1602646903845" />
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603871491730" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1606912247244">
+    <state width="1237" height="141" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607146514945" />
+    <state width="1237" height="141" key="GridCell.Tab.0.left" timestamp="1607146514945">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1606912247244" />
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1606910869253">
+    <state width="1237" height="141" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607146514945" />
+    <state width="1237" height="141" key="GridCell.Tab.0.right" timestamp="1607146514945">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1606910869253" />
-    <state x="321" y="73" width="638" height="534" key="find.popup" timestamp="1605968262080">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="321" y="73" width="638" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1605968262080" />
-    <state x="334" y="92" key="new project wizard" timestamp="1606895522806">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="334" y="92" key="new project wizard/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1604309039069" />
-    <state x="334" y="92" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1606895522806" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605519396556">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1605519396556" />
+    <state width="1237" height="141" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607146514945" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/两数之和II_输入有序数组.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/again/找到所有数组中消失的数字.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/三个数的最大乘积.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/三个数的最大乘积.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/三个数的最大乘积.java</url>
-          <line>12</line>
+          <url>file://$PROJECT_DIR$/src/array/unkonw/复写零.java</url>
+          <line>15</line>
           <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/again/非递减数列_贪心.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/again/非递减数列_贪心.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/again/非递减数列_贪心.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/again/使用最小花费爬楼梯_动态规划.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/至少是其他数字两倍的最大数.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/至少是其他数字两倍的最大数.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/单调数列.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/单调数列.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/again/按奇偶排序数组.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/again/按奇偶排序数组.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/again/按奇偶排序数组.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/有效的山脉数组.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/斐波那契数_动态规划.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="80" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/斐波那契数_动态规划.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/斐波那契数_动态规划.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/查询后的偶数和.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/again/数组形式的整数加法.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/again/数组形式的整数加法.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-<<<<<<< HEAD
-          <url>file://$PROJECT_DIR$/src/array/拼写单词.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/again/高度检查器.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="90" />
-=======
-          <url>file://$PROJECT_DIR$/src/array/查找常用字符.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="112" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/查找常用字符.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="122" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/总持续时间可被60整除的歌曲.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="125" />
->>>>>>> 5f30411cfb0ee1680de916a4ec338fe08cb04dc9
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/array/again/找到所有数组中消失的数字.java</url>
-          <line>28</line>
-          <properties class="array.again.找到所有数组中消失的数字">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/leecode$___1_.ic" NAME="非递减数列_贪心 (1) Coverage Results" MODIFIED="1605844633231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>array.again.*</FILTER>
-    </SUITE>
   </component>
 </project>
