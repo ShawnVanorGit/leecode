@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="896e6956-0e8c-4715-acce-12732bf16c94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/again/数组的相对排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/有序数组中出现次数超过25的元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/将每个元素替换为右侧最大元素.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/array/复写零.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +20,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
+  <component name="ProjectId" id="1lHHsDpd81CXf2RZvK22ucBzw0w" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -45,7 +47,7 @@
       <recent name="D:\project\leecode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.有序数组中出现次数超过25的元素">
+  <component name="RunManager" selected="Application.复写零">
     <configuration name="复写零" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.unkonw.复写零" />
       <module name="leecode" />
@@ -61,6 +63,19 @@
     </configuration>
     <configuration name="有序数组中出现次数超过25的元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.有序数组中出现次数超过25的元素" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="将每个元素替换为右侧最大元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.将每个元素替换为右侧最大元素" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -90,6 +105,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607136906388</updated>
       <workItem from="1607136907730" duration="10867000" />
+      <workItem from="1607247306462" duration="2568000" />
+      <workItem from="1607264115946" duration="33000" />
     </task>
     <servers />
   </component>
@@ -97,22 +114,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="129" key="GridCell.Tab.0.bottom" timestamp="1607185701559">
+    <state width="1237" height="33" key="GridCell.Tab.0.bottom" timestamp="1607255780473">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="129" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607185701559" />
-    <state width="1237" height="129" key="GridCell.Tab.0.center" timestamp="1607185701559">
+    <state width="1237" height="33" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607255780473" />
+    <state width="1237" height="33" key="GridCell.Tab.0.center" timestamp="1607255780472">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="129" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607185701559" />
-    <state width="1237" height="129" key="GridCell.Tab.0.left" timestamp="1607185701558">
+    <state width="1237" height="33" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607255780472" />
+    <state width="1237" height="33" key="GridCell.Tab.0.left" timestamp="1607255780472">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="129" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607185701558" />
-    <state width="1237" height="129" key="GridCell.Tab.0.right" timestamp="1607185701559">
+    <state width="1237" height="33" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607255780472" />
+    <state width="1237" height="33" key="GridCell.Tab.0.right" timestamp="1607255780472">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="129" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607185701559" />
+    <state width="1237" height="33" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607255780472" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1607264145632">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1607264145632" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
