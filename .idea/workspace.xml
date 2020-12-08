@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="4a56f014-a896-4fe8-852f-c85153b4b525" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/array/again/复写零.java" afterDir="false" />
+=======
+    <list default="true" id="896e6956-0e8c-4715-acce-12732bf16c94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/array/将每个元素替换为右侧最大元素.java" afterDir="false" />
+>>>>>>> eaae56265ccaaf4c6888b6a70c84bbffc5a36cb2
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
@@ -27,7 +32,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1iqrQLHWZC0D8pUxceZqRCgDoWW" />
+  <component name="ProjectId" id="1lHHsDpd81CXf2RZvK22ucBzw0w" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -41,21 +46,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/RealTimeBoard" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\leecode\src\array" />
-      <recent name="D:\leecode\src\array\again" />
+      <recent name="D:\project\leecode" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Test">
     <configuration name="按奇偶排序数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.again.按奇偶排序数组" />
@@ -326,10 +324,15 @@
     </configuration>
     <configuration name="使用最小花费爬楼梯_动态规划" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.again.使用最小花费爬楼梯_动态规划" />
+=======
+  <component name="RunManager" selected="Application.复写零">
+    <configuration name="复写零" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.unkonw.复写零" />
+>>>>>>> eaae56265ccaaf4c6888b6a70c84bbffc5a36cb2
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.again.*" />
+          <option name="PATTERN" value="array.unkonw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,8 +340,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="斐波那契数_动态规划" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.斐波那契数_动态规划" />
+    <configuration name="有序数组中出现次数超过25的元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.有序数组中出现次数超过25的元素" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -350,8 +353,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="分发饼干_贪心" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.分发饼干_贪心" />
+    <configuration name="将每个元素替换为右侧最大元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.将每个元素替换为右侧最大元素" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -365,11 +368,16 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.复写零" />
         <item itemvalue="Application.总持续时间可被60整除的歌曲" />
         <item itemvalue="Application.按奇偶排序数组" />
         <item itemvalue="Application.使用最小花费爬楼梯_动态规划" />
+=======
+        <item itemvalue="Application.有序数组中出现次数超过25的元素" />
+        <item itemvalue="Application.复写零" />
+>>>>>>> eaae56265ccaaf4c6888b6a70c84bbffc5a36cb2
       </list>
     </recent_temporary>
   </component>
@@ -378,10 +386,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4a56f014-a896-4fe8-852f-c85153b4b525" name="Default Changelist" comment="" />
-      <created>1602645945176</created>
+      <changelist id="896e6956-0e8c-4715-acce-12732bf16c94" name="Default Changelist" comment="" />
+      <created>1607136906388</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1602645945176</updated>
       <workItem from="1602645947946" duration="979000" />
       <workItem from="1602668690198" duration="1146000" />
@@ -413,6 +422,12 @@
       <workItem from="1606745652534" duration="789000" />
       <workItem from="1606827126430" duration="2402000" />
       <workItem from="1606955112371" duration="4706000" />
+=======
+      <updated>1607136906388</updated>
+      <workItem from="1607136907730" duration="10867000" />
+      <workItem from="1607247306462" duration="2568000" />
+      <workItem from="1607264115946" duration="33000" />
+>>>>>>> eaae56265ccaaf4c6888b6a70c84bbffc5a36cb2
     </task>
     <servers />
   </component>
@@ -420,24 +435,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Project_Structure" timestamp="1602646036195">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1602646036195" />
-    <state x="425" y="225" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606140586439">
+    <state width="1237" height="33" key="GridCell.Tab.0.bottom" timestamp="1607255780473">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="425" y="225" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1606140586439" />
-    <state x="732" y="229" key="#xdebugger.evaluate" timestamp="1606874973068">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="448" y="85" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1605970229733" />
-    <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1603793160879" />
-    <state x="2592" y="716" key="#xdebugger.evaluate/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1605840349257" />
-    <state x="732" y="229" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1606874973068" />
-    <state x="493" y="180" key="FileChooserDialogImpl" timestamp="1606743924606">
+    <state width="1237" height="33" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607255780473" />
+    <state width="1237" height="33" key="GridCell.Tab.0.center" timestamp="1607255780472">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+<<<<<<< HEAD
     <state x="493" y="180" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606743924606" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1605595372929" />
     <state x="2660" y="547" key="FileChooserDialogImpl/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1606274342613" />
@@ -476,76 +481,37 @@
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1602646903845" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603871491730" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1606578964801">
+=======
+    <state width="1237" height="33" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607255780472" />
+    <state width="1237" height="33" key="GridCell.Tab.0.left" timestamp="1607255780472">
+>>>>>>> eaae56265ccaaf4c6888b6a70c84bbffc5a36cb2
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1606578964801" />
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1606743874290">
+    <state width="1237" height="33" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607255780472" />
+    <state width="1237" height="33" key="GridCell.Tab.0.right" timestamp="1607255780472">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1606743874290" />
-    <state x="321" y="73" width="638" height="534" key="find.popup" timestamp="1605968262080">
+    <state width="1237" height="33" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607255780472" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1607264145632">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="321" y="73" width="638" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1605968262080" />
-    <state x="334" y="92" key="new project wizard" timestamp="1606895522806">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="334" y="92" key="new project wizard/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1604309039069" />
-    <state x="334" y="92" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1606895522806" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605519396556">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1605519396556" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1607264145632" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/两数之和II_输入有序数组.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/again/找到所有数组中消失的数字.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/三个数的最大乘积.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/三个数的最大乘积.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/三个数的最大乘积.java</url>
-          <line>12</line>
+          <url>file://$PROJECT_DIR$/src/array/unkonw/复写零.java</url>
+          <line>15</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/again/非递减数列_贪心.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="55" />
+          <url>file://$PROJECT_DIR$/src/array/有序数组中出现次数超过25的元素.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/again/非递减数列_贪心.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/again/非递减数列_贪心.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/again/使用最小花费爬楼梯_动态规划.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+<<<<<<< HEAD
           <url>file://$PROJECT_DIR$/src/array/至少是其他数字两倍的最大数.java</url>
           <line>10</line>
           <option name="timeStamp" value="60" />
@@ -642,13 +608,13 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="16" />
+=======
+          <url>file://$PROJECT_DIR$/src/array/有序数组中出现次数超过25的元素.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="30" />
+>>>>>>> eaae56265ccaaf4c6888b6a70c84bbffc5a36cb2
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/leecode$___1_.ic" NAME="非递减数列_贪心 (1) Coverage Results" MODIFIED="1605844633231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>array.again.*</FILTER>
-    </SUITE>
   </component>
 </project>
