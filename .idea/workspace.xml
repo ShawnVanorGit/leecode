@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a56f014-a896-4fe8-852f-c85153b4b525" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/总持续时间可被60整除的歌曲.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/again/复写零.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
       <recent name="D:\leecode\src\array\again" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.总持续时间可被60整除的歌曲">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="按奇偶排序数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.again.按奇偶排序数组" />
       <module name="leecode" />
@@ -69,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="查找常用字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.查找常用字符" />
+    <configuration name="复写零" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.again.复写零" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="array.again.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,106 +96,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="非递减数列_贪心 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.again.非递减数列_贪心" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="至少是其他数字两倍的最大数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.至少是其他数字两倍的最大数" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="三个数的最大乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.三个数的最大乘积" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="找到所有数组中消失的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.again.找到所有数组中消失的数字" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="有效的山脉数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.有效的山脉数组" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="多数元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.again.多数元素" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="丢失的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.again.丢失的数字" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="有序数组的平方" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.again.有序数组的平方" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -316,6 +220,110 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="查找常用字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.查找常用字符" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="至少是其他数字两倍的最大数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.至少是其他数字两倍的最大数" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="三个数的最大乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.三个数的最大乘积" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="找到所有数组中消失的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.again.找到所有数组中消失的数字" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.again.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="有效的山脉数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.有效的山脉数组" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="多数元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.again.多数元素" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.again.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="丢失的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.again.丢失的数字" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.again.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="有序数组的平方" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.again.有序数组的平方" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.again.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="使用最小花费爬楼梯_动态规划" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.again.使用最小花费爬楼梯_动态规划" />
       <module name="leecode" />
@@ -357,11 +365,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.复写零" />
         <item itemvalue="Application.总持续时间可被60整除的歌曲" />
-        <item itemvalue="Application.查找常用字符" />
         <item itemvalue="Application.按奇偶排序数组" />
         <item itemvalue="Application.使用最小花费爬楼梯_动态规划" />
-        <item itemvalue="Application.非递减数列_贪心 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -404,6 +412,7 @@
       <workItem from="1606743875172" duration="648000" />
       <workItem from="1606745652534" duration="789000" />
       <workItem from="1606827126430" duration="2402000" />
+      <workItem from="1606955112371" duration="4706000" />
     </task>
     <servers />
   </component>
@@ -433,34 +442,34 @@
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1605595372929" />
     <state x="2660" y="547" key="FileChooserDialogImpl/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1606274342613" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603874048602" />
-    <state width="1020" height="307" key="GridCell.Tab.0.bottom" timestamp="1606896488845">
+    <state width="1877" height="213" key="GridCell.Tab.0.bottom" timestamp="1607048116591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="119" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606828102727" />
     <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1606197418734" />
     <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1606469486077" />
-    <state width="1020" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606896488845" />
-    <state width="1020" height="307" key="GridCell.Tab.0.center" timestamp="1606896488842">
+    <state width="1877" height="213" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607048116591" />
+    <state width="1877" height="213" key="GridCell.Tab.0.center" timestamp="1607048116591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="119" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606828102727" />
     <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1606197418734" />
     <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1606469486077" />
-    <state width="1020" height="307" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606896488842" />
-    <state width="1020" height="307" key="GridCell.Tab.0.left" timestamp="1606896488842">
+    <state width="1877" height="213" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607048116591" />
+    <state width="1877" height="213" key="GridCell.Tab.0.left" timestamp="1607048116591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="119" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606828102727" />
     <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1606197418733" />
     <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1606469486077" />
-    <state width="1020" height="307" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606896488842" />
-    <state width="1020" height="307" key="GridCell.Tab.0.right" timestamp="1606896488844">
+    <state width="1877" height="213" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607048116591" />
+    <state width="1877" height="213" key="GridCell.Tab.0.right" timestamp="1607048116591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="119" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606828102727" />
     <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1040/1920.272.1920.1040@0.0.1920.1040" timestamp="1606197418734" />
     <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1040/1920.272.1920.1040@1920.272.1920.1040" timestamp="1606469486077" />
-    <state width="1020" height="307" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606896488844" />
+    <state width="1877" height="213" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607048116591" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1603871491730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -620,6 +629,11 @@
           <url>file://$PROJECT_DIR$/src/array/总持续时间可被60整除的歌曲.java</url>
           <line>14</line>
           <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/again/复写零.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="137" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/array/again/找到所有数组中消失的数字.java</url>
