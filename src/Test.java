@@ -4,6 +4,7 @@ import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.util.*;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 /**
  * @Author Natasha
@@ -12,6 +13,37 @@ import java.util.stream.Collectors;
  **/
 public class Test {
     public static void main(String[] args) {
+        ArrayList<Integer> list = new ArrayList<>();
+        list.add(1);
+        list.add(3);
+        list.add(4);
+
+//        Stream<Integer> streamA = list.stream();
+
+//        // 对每一个元素进行打印输出
+//        streamA.forEach((String s) -> {
+//            System.out.println(s);
+//        });
+
+//        list.stream().forEach(s -> System.out.println(s));
+
+        list.stream().forEach(System.out::println);
+    }
+    public static void main3( String[] args ) {
+        Set<String> set = new HashSet<>();
+        set.add("5");
+        set.add("3");
+        set.add("1");
+        set.add("4");
+        set.add("5");
+        System.out.println(set.toString());
+        //这里后续用有序的list处理即可，因为流中进行了倒序处理，收集成set后会重排
+        List<String> collect = set.stream().sorted(Comparator.naturalOrder()).collect(Collectors.toList());
+        System.out.println(collect);
+
+
+    }
+    public static void main2(String[] args) {
         LocalDateTime now = LocalDateTime.of(2020,12,4,9,12,5,8);
         System.out.println("计算两个时间的差：");
         LocalDateTime end = LocalDateTime.now();
@@ -52,7 +84,7 @@ public class Test {
         }
     }
 
-    public static void main2(String[] args) {
+    public static void main0(String[] args) {
         String str = "";
         // 以 , 号为分隔符来分隔字符串
         StringTokenizer st=new StringTokenizer(str);
