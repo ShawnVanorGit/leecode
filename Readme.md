@@ -9,6 +9,7 @@ Arrays.stream(new int[]{3,5,8}).boxed().collect(Collectors.toList())
 
 set排序：
 set.stream().sorted(Comparator.naturalOrder()).collect(Collectors.toList());
+
 ASCII:
 0 = 48
 A = 65
@@ -21,3 +22,6 @@ Arrays.fill(arr, Integer.MAX_VALUE);
 int[] a = arr.clone();
 Arrays.sort(a);
 
+异或规律：
+0和任何值的异或等于本身，即：A ^ 0 = A
+异或本身等于0，即 A ^ A = 0
