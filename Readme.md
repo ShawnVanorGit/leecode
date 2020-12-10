@@ -25,3 +25,9 @@ Arrays.sort(a);
 异或规律：
 0和任何值的异或等于本身，即：A ^ 0 = A
 异或本身等于0，即 A ^ A = 0
+
+HashMap:
+//找出map中最多的values值
+int key = Collections.max(map.values());
+//循环key
+for (int m : map.keySet())
