@@ -31,3 +31,6 @@ HashMap:
 int key = Collections.max(map.values());
 //循环key
 for (int m : map.keySet())
+//循环key和value
+for (Map.Entry<Integer, Integer> entry : m.entrySet()) {
+    int key = entry.getKey(), value = entry.getValue();
