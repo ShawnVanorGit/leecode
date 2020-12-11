@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="896e6956-0e8c-4715-acce-12732bf16c94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/解压缩编码列表.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/解压缩编码列表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/解压缩编码列表.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +108,7 @@
       <workItem from="1607247306462" duration="2568000" />
       <workItem from="1607264115946" duration="33000" />
       <workItem from="1607353734555" duration="1459000" />
+      <workItem from="1607691956916" duration="683000" />
     </task>
     <servers />
   </component>
@@ -132,10 +132,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="33" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607255780472" />
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1607353748594">
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1607695776496">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1607353748594" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1607695776496" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
