@@ -17,7 +17,7 @@ public class 解压缩编码列表 {
         for (int i = 0; i < nums.length; i+=2) {
             int n = nums[i];
             int num = nums[i+1];
-            for (int j = 0; j < n; j++) {
+            for (int k = 0; k < n; k++) {
                 list.add(num);
             }
         }
