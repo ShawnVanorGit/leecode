@@ -1,7 +1,5 @@
 package list;
 
-import java.util.LinkedList;
-
 /**
  * @Author Natasha
  * @Description
