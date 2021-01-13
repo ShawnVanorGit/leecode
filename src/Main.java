@@ -11,7 +11,7 @@ import java.util.stream.Stream;
  * @Description
  * @Date 2020/10/26 14:19
  **/
-public class Test {
+public class Main {
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
         list.add(1);
