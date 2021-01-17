@@ -9,6 +9,15 @@ import java.util.Queue;
  * @Date 2021/1/14 10:51
  **/
 public class 二叉搜索树的最近公共祖先 {
+    //方法二：
+    public static TreeNode lowestCommonAncestor1(TreeNode root, TreeNode p, TreeNode q) {
+        if (root.val > q.val && root.val > p.val) {
+            return lowestCommonAncestor(root.left, p, q);
+        } else if (root.val < q.val && root.val < p.val) {
+            return lowestCommonAncestor(root.right, p, q);
+        }
+        return root;
+    }
     //方法一：
     public static TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if (p.val > q.val) {
@@ -24,16 +33,6 @@ public class 二叉搜索树的最近公共祖先 {
             return lowestCommonAncestor(root.right, p, q);
         }
     }
-    //方法二：
-    public static TreeNode lowestCommonAncestor1(TreeNode root, TreeNode p, TreeNode q) {
-        if (root.val > q.val && root.val > p.val) {
-            return lowestCommonAncestor(root.left, p, q);
-        } else if (root.val < q.val && root.val < p.val) {
-            return lowestCommonAncestor(root.right, p, q);
-        }
-        return root;
-    }
-
 
     public static void main(String[] args) {
 //        TreeNode a1 = new TreeNode(6);
