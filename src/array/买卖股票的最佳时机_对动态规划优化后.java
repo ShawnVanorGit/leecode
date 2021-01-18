@@ -5,7 +5,7 @@ package array;
  * @Description
  * @Date 2020/11/13 15:57
  **/
-public class 买卖股票的最佳时机 {
+public class 买卖股票的最佳时机_对动态规划优化后 {
     public static int maxProfit(int[] prices) {
         if(prices.length == 0){
             return 0;
