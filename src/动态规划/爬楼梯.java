@@ -25,4 +25,8 @@ public class 爬楼梯 {
             return climbStairs2(n - 1) + climbStairs2(n - 2);
         }
     }
+
+    public static void main(String[] args) {
+
+    }
 }
