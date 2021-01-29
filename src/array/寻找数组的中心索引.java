@@ -2,7 +2,7 @@ package array;
 
 /**
  * @Author Natasha
- * @Description
+ * @Description * 比 / 好
  * @Date 2020/11/12 16:57
  **/
 public class 寻找数组的中心索引 {

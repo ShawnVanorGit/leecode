@@ -6,6 +6,7 @@ package 动态规划.medium;
  * 因为只能从上面或左边走过来，所以递推公式是 dp[i][j]=dp[i-1][j]+dp[i][j-1]。
  * dp[i-1][j]表示的是从上面走过来的路径条数。
  * dp[i][j-1]表示的是从左边走过来的路径条数。
+ * 边界：注意dp[i - 1][j + 1]要构成区间，因为区间的长度等于2或3时，我们只需要关注首尾字符是否相等
  * https://leetcode-cn.com/problems/unique-paths/solution/xiao-xue-ti-java-by-biyu_leetcode/
  * https://leetcode-cn.com/problems/unique-paths/solution/dong-tai-gui-hua-di-gui-gong-shi-deng-3z-9mp1/
  * @Date 2021/1/22 20:38
