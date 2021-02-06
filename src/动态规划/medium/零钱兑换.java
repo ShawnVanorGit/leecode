@@ -4,7 +4,9 @@ import java.util.Arrays;
 
 /**
  * @Author Natasha
- * @Description
+ * @Description 跟剪绳子是一样的
+ * 当amount = 11，
+ * 可能有dp[11-1]，dp[11-2]，dp[11-5]求最优
  * @Date 2021/1/25 9:31
  **/
 public class 零钱兑换 {
