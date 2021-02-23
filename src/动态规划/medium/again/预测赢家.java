@@ -1,12 +1,12 @@
 package 动态规划.medium.again;
 
 /**
- * @Author Natasha
- * @Description 需要理解的是 每次都是 甲对乙 取完 最优净得分 后的dp，再用 Math.max()比较取首尾哪边获利更大
- * dp表示甲对乙的的净得分
- * dp[0][n-1]表示从区间[0,n]甲对乙最终的净得分
- * 举例：[1,5,2] i = 0, j = 2
- *      dp[0][2] = Math.max(num[0]-dp[1][2], num[2]-dp[0][1])=Math.max(1-[5,2], 2-[1,5]);
+ * @Author Natasha dp表示在给出区间[6,3,4,5]中，"亚历克斯"最多可以赢"李"的分数
+    举例[6,3,4,5]（根据状态转移方程计算状态的时候，一定要保证左边一格和下边一格的值先计算出来。）
+        在区间[4,5],dp[2][3]中"亚历克斯"取5，那最多可以赢"李"1分
+        在区间[3,4],dp[1][2]中"亚历克斯"取4，那最多可以赢"李"1分
+        在区间[3,4,5],dp[1][3]中"亚历克斯"取5，"李"取4，"亚历克斯"取3，(在这个过程中有重复计算存在，故使用动态规划)那最多可以赢"李"4分
+    ...
  * @Date 2021/2/9 10:00
  **/
 public class 预测赢家 {
@@ -23,6 +23,6 @@ public class 预测赢家 {
     }
 
     public static void main(String[] args) {
-        System.out.println(PredictTheWinner(new int[]{1, 5, 2}));
+        System.out.println(PredictTheWinner(new int[]{6,3,4,5}));
     }
 }
