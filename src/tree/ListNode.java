@@ -1,11 +1,11 @@
-package list;
+package tree;
+
 
 /**
  * @Author Natasha
  * @Description
- * @Date 2020/12/15 8:51
+ * @Date 2021/2/26 8:11
  **/
-
 public class ListNode {
     int val;
     ListNode next;
